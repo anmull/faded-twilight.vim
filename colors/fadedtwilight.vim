@@ -17,7 +17,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "faded_twilight"
+let colors_name = "fadedtwilight"
 
 hi CursorLine                 guibg=#262626
 hi CursorColumn               guibg=#262626
